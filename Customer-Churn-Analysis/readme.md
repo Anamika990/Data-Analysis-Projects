@@ -42,9 +42,27 @@ This project demonstrates how to use the **KNIME Analytics Platform** to analyze
 - Accuracy, Precision, Recall, F1-score
 - Confusion Matrix and ROC Curve visualization
 
-
 ## 📈 Key Results
 - **Top features:** Contract Type, Tenure, Monthly Charges
 - **Best Model:** XGBoost with ~84% accuracy and 0.88 AUC
 
 ---
+
+## 📥 How to Run
+1. Download and install [KNIME Analytics Platform](https://www.knime.com/downloads)
+2. Open the `.knwf` file in KNIME
+3. Load csv dataset
+4. Execute each node in order
+
+
+## 📚 References
+- Dataset: [Kaggle - Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn)
+- KNIME Docs: [https://docs.knime.com](https://docs.knime.com)
+
+
+## 👩‍💻 Author
+Anamika Das
+MSc in Information Technology & Management  
+The University of Texas at Dallas  
+
+
