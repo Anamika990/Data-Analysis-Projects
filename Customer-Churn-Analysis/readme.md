@@ -61,7 +61,7 @@ This project demonstrates how to use the **KNIME Analytics Platform** to analyze
 
 
 ## 👩‍💻 Author
-Anamika Das
+Anamika Das,
 MSc in Information Technology & Management  
 The University of Texas at Dallas  
 
